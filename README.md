@@ -1,2 +1,2 @@
 # EE5179
-Deep learning for image processing [offered by IITM] course's programming assignments.
+Programming assignments and tutorials (with solution) of the course EE5179 offered by IIT Madras.
